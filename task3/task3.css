@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yux{
+    width: 500px;
+    height: 100px;
+    background-color: rgba(113, 162, 147, 0.155);
+    position: absolute;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 128, 0, 0.327);
+    left: 190px;
+    top: -15px;
+    position: absolute;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    left: 400px;
+}
+.orta{
+    width: 500px;
+    height: 100px;
+    background-color: rgba(113, 162, 147, 0.155);
+    position: absolute;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+}
+.box11{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    left: 40px;
+    
+}
+.box32{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    left: 350px;
+    
+}
+.as{
+    width: 500px;
+    height: 100px;
+    background-color: rgba(113, 162, 147, 0.155);
+    position: absolute;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+}
+.box111{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    left: 10px;
+    
+}
+.box222{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 0, 0, 0.221);
+    left: 195px;
+    position: absolute;
+}
+.box333{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 255, 0, 0.304);
+    position: absolute;
+    left: 390px;
+    
+}
+p{
+    padding: 35px;
+}
+.kray{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    text-align: center;
+
+}
+.box01{
+    width: 100px;
+    height: 100px;
+    background-color:rgba(0, 0, 255, 0.255) ;
+    margin: 115px 406px ;
+    position: absolute;
+  
+}

@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 2px solid red;
+  position: relative;
+
+}
+div{
+    width: 100px;
+    height: 100px;
+   
+}
+#one{
+    background-color:aqua;
+    border-radius: 10px;
+    position: absolute;
+    left:-30 px;
+   
+    
+    
+  
+
+
+}
+#two{
+    background-color: blue;
+    border-radius: 10px;
+   
+    position: relative;
+    top: 115px;
+    left: 30px;
+   
+
+}
+#three{
+background-color: rgb(57, 11, 11);
+border-radius: 10px;
+position: relative;
+top: 130px;
+left: 30px;
+
+}
+#four{
+    background-color: rgba(142, 115, 168, 0.533);
+    border-radius: 10px;
+    position: relative;
+    top: 160px;
+    left: 30px;
+
+}
+
